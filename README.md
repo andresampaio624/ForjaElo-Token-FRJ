@@ -62,7 +62,6 @@ polygon-verify/            # Artefatos de verificação gerados pelo script
 assets/                    # Logos e mídias oficiais
 docs/                      # Documentação rápida e links úteis do token
 metadata.json              # Metadados extraídos do Sourcify para verificação pública
-ForjaElo-Token-FRJ-main.zip# Pacote original do diretório de materiais públicos
 ```
 
 Manter essa hierarquia facilita localizar rapidamente o contrato, scripts de build e materiais oficiais do token.
