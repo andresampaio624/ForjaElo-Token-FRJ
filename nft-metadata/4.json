@@ -1,16 +1,18 @@
 {
-  "name": "ForjaElo - CENTRAL (Elo 4)",
-  "description": "Elo Verdade: Autenticidade e Sistema. O quarto Elo representa o centro, onde a verdade se manifesta através da autenticidade e de sistemas bem estruturados.",
+  "name": "ForjaElo - CENTRAL (Elo 4) 🎏",
+  "description": "Elo de Verdade e Autenticidade. CENTRAL representa o Sentido da Verdade, a Expressão da Autenticidade. Este NFT simboliza o coração do framework, onde a vulnerabilidade se torna força e os sistemas se alinham à verdade pessoal. Meta: Sistema. Ação: Vulnerabilidade.",
   "image": "ipfs://QmPlaceholder/central.png",
   "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
   "attributes": [
     {"trait_type": "Elo", "value": "CENTRAL"},
-    {"trait_type": "Número do Elo", "value": 4},
-    {"trait_type": "Dimensão", "value": "Verdade"},
-    {"trait_type": "Foco", "value": "Autenticidade/Sistema"},
-    {"trait_type": "Raridade", "value": "Incomum"},
-    {"trait_type": "Supply Máximo", "value": 777},
-    {"trait_type": "Framework", "value": "7 Elos"},
-    {"trait_type": "Símbolo", "value": "🎯"}
+    {"trait_type": "Número do Elo", "value": "4"},
+    {"trait_type": "Sentido", "value": "Verdade"},
+    {"trait_type": "Expressão", "value": "Autenticidade"},
+    {"trait_type": "Meta", "value": "Sistema"},
+    {"trait_type": "Ação", "value": "Vulnerabilidade"},
+    {"trait_type": "Símbolo", "value": "🎏"},
+    {"trait_type": "Supply Máximo", "value": "777"},
+    {"trait_type": "Raridade", "value": "Lendário"},
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
