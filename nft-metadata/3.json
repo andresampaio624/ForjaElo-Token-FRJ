@@ -1,16 +1,18 @@
 {
-  "name": "ForjaElo - POTÊNCIA (Elo 3)",
-  "description": "Elo Força: Processo e Hábito. O terceiro Elo manifesta a potência através da disciplina dos processos e da consistência dos hábitos diários.",
+  "name": "ForjaElo - POTÊNCIA (Elo 3) ⚡",
+  "description": "Elo de Força e Hábito. POTÊNCIA representa o Sentido da Força, a Expressão do Processo. Este NFT simboliza a energia que alimenta a transformação, onde os hábitos se tornam automáticos e poderosos. Meta: Hábito. Ação: Automatizar (criar sistemas de poder).",
   "image": "ipfs://QmPlaceholder/potencia.png",
   "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
   "attributes": [
     {"trait_type": "Elo", "value": "POTÊNCIA"},
-    {"trait_type": "Número do Elo", "value": 3},
-    {"trait_type": "Dimensão", "value": "Força"},
-    {"trait_type": "Foco", "value": "Processo/Hábito"},
-    {"trait_type": "Raridade", "value": "Raro"},
-    {"trait_type": "Supply Máximo", "value": 777},
-    {"trait_type": "Framework", "value": "7 Elos"},
-    {"trait_type": "Símbolo", "value": "⚡"}
+    {"trait_type": "Número do Elo", "value": "3"},
+    {"trait_type": "Sentido", "value": "Força"},
+    {"trait_type": "Expressão", "value": "Processo"},
+    {"trait_type": "Meta", "value": "Hábito"},
+    {"trait_type": "Ação", "value": "Automatizar"},
+    {"trait_type": "Símbolo", "value": "⚡"},
+    {"trait_type": "Supply Máximo", "value": "777"},
+    {"trait_type": "Raridade", "value": "Lendário"},
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
