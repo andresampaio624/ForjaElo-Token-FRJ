@@ -1,0 +1,16 @@
+{
+  "name": "ForjaElo - IDE (Elo 7)",
+  "description": "Elo Serviço: Química e Conexão. O sétimo e último Elo representa a IDE (ideia/ideal), onde o serviço aos outros cria química e conexões profundas.",
+  "image": "ipfs://QmPlaceholder/ide.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
+  "attributes": [
+    {"trait_type": "Elo", "value": "IDE"},
+    {"trait_type": "Número do Elo", "value": 7},
+    {"trait_type": "Dimensão", "value": "Serviço"},
+    {"trait_type": "Foco", "value": "Química/Conexão"},
+    {"trait_type": "Raridade", "value": "Mítico"},
+    {"trait_type": "Supply Máximo", "value": 777},
+    {"trait_type": "Framework", "value": "7 Elos"},
+    {"trait_type": "Símbolo", "value": "💡"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ForjaElo - CENTRAL (Elo 4)",
+  "description": "Elo Verdade: Autenticidade e Sistema. O quarto Elo representa o centro, onde a verdade se manifesta através da autenticidade e de sistemas bem estruturados.",
+  "image": "ipfs://QmPlaceholder/central.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
+  "attributes": [
+    {"trait_type": "Elo", "value": "CENTRAL"},
+    {"trait_type": "Número do Elo", "value": 4},
+    {"trait_type": "Dimensão", "value": "Verdade"},
+    {"trait_type": "Foco", "value": "Autenticidade/Sistema"},
+    {"trait_type": "Raridade", "value": "Incomum"},
+    {"trait_type": "Supply Máximo", "value": 777},
+    {"trait_type": "Framework", "value": "7 Elos"},
+    {"trait_type": "Símbolo", "value": "🎯"}
+  ]
+}
