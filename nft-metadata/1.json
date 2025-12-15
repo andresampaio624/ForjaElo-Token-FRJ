@@ -1,16 +1,18 @@
 {
-  "name": "ForjaElo - CHAMA (Elo 1)",
-  "description": "Elo Fundação: Propósito e Espírito. O primeiro dos 7 Elos do Framework ForjaElo, representando a chama interior que acende a jornada de transformação pessoal. Este NFT simboliza a descoberta do propósito de vida e o despertar do espírito empreendedor.",
+  "name": "ForjaElo - CHAMA (Elo 1) 🔥",
+  "description": "Elo Fundação da Transformação Pessoal. CHAMA representa o Sentido do Amor, a Expressão do Espírito/Propósito. Este NFT simboliza o despertar da chama interior que acende a jornada de transformação. Meta: Prioridade. Ação: Adoração/Honra.",
   "image": "ipfs://QmPlaceholder/chama.png",
   "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
   "attributes": [
     {"trait_type": "Elo", "value": "CHAMA"},
-    {"trait_type": "Número do Elo", "value": 1},
-    {"trait_type": "Dimensão", "value": "Fundação"},
-    {"trait_type": "Foco", "value": "Propósito/Espírito"},
+    {"trait_type": "Número do Elo", "value": "1"},
+    {"trait_type": "Sentido", "value": "Amor"},
+    {"trait_type": "Expressão", "value": "Espírito/Propósito"},
+    {"trait_type": "Meta", "value": "Prioridade"},
+    {"trait_type": "Ação", "value": "Adoração/Honra"},
+    {"trait_type": "Símbolo", "value": "🔥"},
+    {"trait_type": "Supply Máximo", "value": "777"},
     {"trait_type": "Raridade", "value": "Lendário"},
-    {"trait_type": "Supply Máximo", "value": 777},
-    {"trait_type": "Framework", "value": "7 Elos"},
-    {"trait_type": "Símbolo", "value": "🔥"}
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
