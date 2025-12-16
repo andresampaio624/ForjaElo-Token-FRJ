@@ -1,32 +1,40 @@
 {
   "name": "ForjaElo #6 - Atleta",
-  "description": "Velocidade, agilidade e performance em movimento. Representa excelência atlética e superação.",
+  "description": "ELO 6 - ATLETA. Sentido: Corpo. Expressão: Biologia. Meta: Forma. Ação: Testar. Arquétipo: Foco.",
   "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-06-atleta.png",
   "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
   "attributes": [
     {
-      "trait_type": "ELO Level",
+      "trait_type": "ELO",
       "value": "6"
     },
     {
-      "trait_type": "Tipo",
+      "trait_type": "Nome",
       "value": "Atleta"
-    },
-    {
-      "trait_type": "Raridade",
-      "value": "Raro"
-    },
-    {
-      "trait_type": "Elemento",
-      "value": "Movimento"
     },
     {
       "trait_type": "Emoji",
       "value": "🏃"
     },
     {
-      "trait_type": "Coleção",
-      "value": "ForjaElo Genesis"
+      "trait_type": "Sentido",
+      "value": "Corpo"
+    },
+    {
+      "trait_type": "Expressão",
+      "value": "Biologia"
+    },
+    {
+      "trait_type": "Meta",
+      "value": "Forma"
+    },
+    {
+      "trait_type": "Ação",
+      "value": "Testar"
+    },
+    {
+      "trait_type": "Arquétipo",
+      "value": "Foco"
     }
   ]
 }
