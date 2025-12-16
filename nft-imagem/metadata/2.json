@@ -1,0 +1,32 @@
+{
+  "name": "ForjaElo #2 - Refúgio",
+  "description": "Um refúgio seguro para crescer e se desenvolver. Representa proteção e crescimento no ecossistema.",
+  "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-02-refugio.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
+  "attributes": [
+    {
+      "trait_type": "ELO Level",
+      "value": "2"
+    },
+    {
+      "trait_type": "Tipo",
+      "value": "Refúgio"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Comum"
+    },
+    {
+      "trait_type": "Elemento",
+      "value": "Natureza"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "🏞️"
+    },
+    {
+      "trait_type": "Coleção",
+      "value": "ForjaElo Genesis"
+    }
+  ]
+}

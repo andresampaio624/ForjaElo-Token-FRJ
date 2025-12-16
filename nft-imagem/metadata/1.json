@@ -1,0 +1,32 @@
+{
+  "name": "ForjaElo #1 - Chama",
+  "description": "A chama inicial que acende o potencial. Representa o início da jornada no ecossistema ForjaElo.",
+  "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-01-chama.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
+  "attributes": [
+    {
+      "trait_type": "ELO Level",
+      "value": "1"
+    },
+    {
+      "trait_type": "Tipo",
+      "value": "Chama"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Comum"
+    },
+    {
+      "trait_type": "Elemento",
+      "value": "Fogo"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "🔥"
+    },
+    {
+      "trait_type": "Coleção",
+      "value": "ForjaElo Genesis"
+    }
+  ]
+}

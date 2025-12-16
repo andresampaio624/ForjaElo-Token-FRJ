@@ -1,0 +1,32 @@
+{
+  "name": "ForjaElo #3 - Potência",
+  "description": "Energia pura e força ilimitada. Representa o poder crescente dentro do ecossistema ForjaElo.",
+  "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-03-potencia.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
+  "attributes": [
+    {
+      "trait_type": "ELO Level",
+      "value": "3"
+    },
+    {
+      "trait_type": "Tipo",
+      "value": "Potência"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Incomum"
+    },
+    {
+      "trait_type": "Elemento",
+      "value": "Energia"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "⚡"
+    },
+    {
+      "trait_type": "Coleção",
+      "value": "ForjaElo Genesis"
+    }
+  ]
+}
