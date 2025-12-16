@@ -1,40 +1,18 @@
 {
-  "name": "ForjaElo #4 - Central",
-  "description": "ELO 4 - CENTRAL. Sentido: Verdade. Expressão: Autenticidade. Meta: Sistema. Ação: Vulnerabilidade. Arquétipo: Virtude.",
-  "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-04-central.png",
-  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
+  "name": "ForjaElo - CENTRAL (Elo 4) 🎯",
+  "description": "Elo de Verdade e Autenticidade. CENTRAL representa o Sentido da Verdade, a Expressão da Autenticidade. Este NFT simboliza o núcleo essencial do ser, onde a vulnerabilidade se torna força através da honestidade radical. Meta: Sistema. Ação: Vulnerabilidade.",
+  "image": "ipfs://QmPlaceholder/central.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
   "attributes": [
-    {
-      "trait_type": "ELO",
-      "value": "4"
-    },
-    {
-      "trait_type": "Nome",
-      "value": "Central"
-    },
-    {
-      "trait_type": "Emoji",
-      "value": "🎯"
-    },
-    {
-      "trait_type": "Sentido",
-      "value": "Verdade"
-    },
-    {
-      "trait_type": "Expressão",
-      "value": "Autenticidade"
-    },
-    {
-      "trait_type": "Meta",
-      "value": "Sistema"
-    },
-    {
-      "trait_type": "Ação",
-      "value": "Vulnerabilidade"
-    },
-    {
-      "trait_type": "Arquétipo",
-      "value": "Virtude"
-    }
+    {"trait_type": "Elo", "value": "CENTRAL"},
+    {"trait_type": "Número do Elo", "value": "4"},
+    {"trait_type": "Sentido", "value": "Verdade"},
+    {"trait_type": "Expressão", "value": "Autenticidade"},
+    {"trait_type": "Meta", "value": "Sistema"},
+    {"trait_type": "Ação", "value": "Vulnerabilidade"},
+    {"trait_type": "Símbolo", "value": "🎯"},
+    {"trait_type": "Supply Máximo", "value": "777"},
+    {"trait_type": "Raridade", "value": "Lendário"},
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
