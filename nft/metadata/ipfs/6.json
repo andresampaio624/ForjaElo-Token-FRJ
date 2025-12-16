@@ -1,6 +1,8 @@
 {
   "name": "ELO 6 - ATLETA 🏃",
   "description": "Sentido: Corpo\nExpressão: Biologia\nMeta: Forma\nAção: Testar\nArquétipo: Foco",
+  "image": "ipfs://bafybeiaendyo32byar54gyou6ow36sufnragmvq6xpbdd2cug52mdksu3a",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
   "attributes": [
     {"trait_type": "Sentido", "value": "Corpo"},
     {"trait_type": "Expressão", "value": "Biologia"},
