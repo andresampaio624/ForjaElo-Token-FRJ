@@ -1,0 +1,76 @@
+{
+  "framework": "ForjaElo - 7 Elos",
+  "version": "1.0.0",
+  "elos": [
+    {
+      "id": 1,
+      "nome": "CHAMA",
+      "emoji": "🔥",
+      "sentido": "Amor",
+      "expressao": "Espírito / Propósito",
+      "meta": "Prioridade",
+      "acao": "Adoração / Honra",
+      "arquetipo": "Cultural"
+    },
+    {
+      "id": 2,
+      "nome": "REFUGIO",
+      "emoji": "🏞️",
+      "sentido": "Alma",
+      "expressao": "Justiça",
+      "meta": "Liderança",
+      "acao": "Desintoxicação",
+      "arquetipo": "Natural"
+    },
+    {
+      "id": 3,
+      "nome": "POTENCIA",
+      "emoji": "⚡",
+      "sentido": "Força",
+      "expressao": "Processo",
+      "meta": "Hábito",
+      "acao": "Automatizar",
+      "arquetipo": "Maquina"
+    },
+    {
+      "id": 4,
+      "nome": "CENTRAL",
+      "emoji": "🎯",
+      "sentido": "Verdade",
+      "expressao": "Autenticidade",
+      "meta": "Sistema",
+      "acao": "Vulnerabilidade",
+      "arquetipo": "Virtude"
+    },
+    {
+      "id": 5,
+      "nome": "TALENTO",
+      "emoji": "🎨",
+      "sentido": "Valor",
+      "expressao": "Domínio",
+      "meta": "Espaço",
+      "acao": "Mordomia",
+      "arquetipo": "Excelência"
+    },
+    {
+      "id": 6,
+      "nome": "ATLETA",
+      "emoji": "🏃",
+      "sentido": "Corpo",
+      "expressao": "Biologia",
+      "meta": "Forma",
+      "acao": "Testar",
+      "arquetipo": "Foco"
+    },
+    {
+      "id": 7,
+      "nome": "IDE",
+      "emoji": "💡",
+      "sentido": "Servir",
+      "expressao": "Química",
+      "meta": "Conexão",
+      "acao": "Encorajar",
+      "arquetipo": "Irmandade"
+    }
+  ]
+}

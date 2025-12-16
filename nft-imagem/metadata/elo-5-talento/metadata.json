@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "ELO 5 - TALENTO 🎨",
+  "description": "Sentido: Valor\nExpressão: Domínio\nMeta: Espaço\nAção: Mordomia\nArquétipo: Excelência",
+  "attributes": [
+    {"trait_type": "Sentido", "value": "Valor"},
+    {"trait_type": "Expressão", "value": "Domínio"},
+    {"trait_type": "Meta", "value": "Espaço"},
+    {"trait_type": "Ação", "value": "Mordomia"},
+    {"trait_type": "Arquétipo", "value": "Excelência"}
+  ]
+}
