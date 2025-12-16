@@ -14,42 +14,79 @@
 ├── 💎 CONTRATO TOKEN
 │   ├── 📁 contracts/
 │   │   ├── ForjaElo.sol              # Token ERC-20 FRJ
-│   │   └── ForjaEloNFT.sol          # NFT Collection ERC-1155
-│   └── 📁 @openzeppelin/           # Dependências OpenZeppelin
-│
-├── 🎆 COLECÇÃO NFT
-│   ├── 🔟 nft/                       # ✨ PASTA CONSOLIDADA
-│   │   ├── README.md               # Guia principal
-│   │   ├── CORE-TERMS.md           # Referência de termos
-│   │   ├── STATS.md                # Estatísticas
-│   │   ├── 🖼️ images/              # 7 PNGs (22 MB)
-│   │   └── 📄 metadata/             # JSONs organizados
-│   │       ├── core/                 # Dados essenciais
-│   │       ├── ipfs/                 # Prontos para deploy
-│   │       └── elo-*/                # Detalhes por ELO
-│   │
-│   ├── nft-imagem/             # Legado (imagens originais)
-│   └── nft-metadata/           # Legado (estrutura anterior)
+│   │   └── ForjaEloNFT.sol           # NFT Collection ERC-1155
+│   └── 📁 @openzeppelin/             # Dependências OpenZeppelin
 │
 ├── 📁 DOCUMENTAÇÃO
 │   ├── 📁 docs/
-│   │   ├── NFT-STRUCTURE.md      # Especificação técnica
-│   │   ├── README.md             # Docs rápidas
+│   │   ├── NFT-STRUCTURE.md          # Especificação técnica
+│   │   ├── README.md                 # Docs rápidas
 │   │   └── ...
-│   ├── NFT-INTEGRATION.md     # Guia integração
-│   ├── PROJECT-STRUCTURE.md   # Estrutura completa
-│   ├── NFT-CONTEXT.md         # Este arquivo
-│   └── README.md (raiz)
+│   ├── NFT-INTEGRATION.md            # Guia integração
+│   ├── PROJECT-STRUCTURE.md          # Estrutura completa
+│   ├── NFT-CONTEXT.md                # Este arquivo
+│   └── README.md                     # README raiz do projeto
 │
 ├── 🔠 SCRIPTS
 │   ├── 📁 scripts/
-│   │   ├── deployNFT.js          # Deploy automático
+│   │   ├── deployNFT.js              # Deploy automático
 │   │   └── generate_polygonscan_input.py
 │
 ├── 🔍 VERIFICAÇÃO
-│   ├── 📁 polygon-verify/       # Artefatos PolygonScan
-│   ├── metadata.json          # Metadados Sourcify
+│   ├── 📁 polygon-verify/            # Artefatos PolygonScan
+│   ├── metadata.json                 # Metadados Sourcify
 │   └── LICENSE
+│
+├── 🎨 NFT ASSETS
+│   ├── 📁 nft/
+│   │   ├── README.md                 # Visão geral dos assets NFT
+│   │
+│   │   ├── 📁 images/                # Imagens em múltiplos formatos
+│   │   │   ├── README.md
+│   │   │   ├── avif/
+│   │   │   ├── jpg/
+│   │   │   ├── png/
+│   │   │   ├── source/               # Arquivos fonte (ex: PSD/AI)
+│   │   │   ├── svg/
+│   │   │   ├── thumbnails/
+│   │   │   ├── webp/
+│   │   │   ├── CONVERSION-GUIDE.md   # Padrões de conversão
+│   │   │   └── FORMATS-GUIDE.md      # Orientações de formatos
+│   │
+│   │   ├── 📁 metadata/              # Metadados JSON
+│   │   │   ├── README.md
+│   │   │   ├── 📁 core/              # Dados essenciais
+│   │   │   │   ├── elos.json         # Mestre de todos os ELOs
+│   │   │   │   ├── 1.json
+│   │   │   │   ├── 2.json
+│   │   │   │   ├── 3.json
+│   │   │   │   ├── 4.json
+│   │   │   │   ├── 5.json
+│   │   │   │   ├── 6.json
+│   │   │   │   └── 7.json
+│   │   │   │
+│   │   │   ├── 📁 ipfs/              # Prontos para IPFS
+│   │   │   │   ├── 1.json
+│   │   │   │   ├── 2.json
+│   │   │   │   ├── 3.json
+│   │   │   │   ├── 4.json
+│   │   │   │   ├── 5.json
+│   │   │   │   ├── 6.json
+│   │   │   │   └── 7.json
+│   │   │   │
+│   │   │   ├── 📁 elo-1-chama/
+│   │   │   │   ├── index.json
+│   │   │   │   ├── full-metadata.json
+│   │   │   │   └── schema.json
+│   │   │   ├── 📁 elo-2-refugio/
+│   │   │   ├── 📁 elo-3-potencia/
+│   │   │   ├── 📁 elo-4-central/
+│   │   │   ├── 📁 elo-5-talento/
+│   │   │   ├── 📁 elo-6-atleta/
+│   │   │   └── 📁 elo-7-ide/
+│   │
+│   │   ├── CORE-TERMS.md             # Referência de termos ELO
+│   │   └── STATS.md                  # Estatísticas da coleção
 ```
 
 ---
