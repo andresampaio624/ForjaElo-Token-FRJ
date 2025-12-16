@@ -1,18 +1,10 @@
 {
-  "name": "ForjaElo - TALENTO (Elo 5) 🎨",
-  "description": "Elo de Valor e Domínio. TALENTO representa o Sentido do Valor, a Expressão do Domínio. Este NFT simboliza o cultivo dos talentos únicos e o domínio da arte pessoal. A mordomia dos dons torna-se uma responsabilidade sagrada. Meta: Espaço. Ação: Mordomia.",
-  "image": "ipfs://QmPlaceholder/talento.png",
-  "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
+  "name": "ELO 5 - TALENTO 🌨️",
   "attributes": [
-    {"trait_type": "Elo", "value": "TALENTO"},
-    {"trait_type": "Número do Elo", "value": "5"},
     {"trait_type": "Sentido", "value": "Valor"},
     {"trait_type": "Expressão", "value": "Domínio"},
     {"trait_type": "Meta", "value": "Espaço"},
     {"trait_type": "Ação", "value": "Mordomia"},
-    {"trait_type": "Símbolo", "value": "🎨"},
-    {"trait_type": "Supply Máximo", "value": "777"},
-    {"trait_type": "Raridade", "value": "Lendário"},
-    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
+    {"trait_type": "Arquétipo", "value": "Excelência"}
   ]
 }
