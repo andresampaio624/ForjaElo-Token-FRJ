@@ -185,18 +185,7 @@ A Coleção de NFTs ForjaElo representa digitalmente os 7 Elos do Framework de T
 
 ### Atributos Padrão em Cada NFT
 ```json
-{
-  "Elo": "Nome do Elo",
-  "Número do Elo": "1-7",
-  "Sentido": "Dimensão emocional/espiritual",
-  "Expressão": "Manifestação principal",
-  "Meta": "Objetivo de transformação",
-  "Ação": "Ação concreta a realizar",
-  "Símbolo": "Emoji representativo",
-  "Supply Máximo": "777",
-  "Raridade": "Lendário",
-  "Framework": "7 Elos - ForjaElo"
-}
+
 ```
 
 ---
