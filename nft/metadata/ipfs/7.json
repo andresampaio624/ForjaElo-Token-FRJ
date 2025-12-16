@@ -9,5 +9,8 @@
     {"trait_type": "Meta", "value": "Conexão"},
     {"trait_type": "Ação", "value": "Encorajar"},
     {"trait_type": "Arquétipo", "value": "Irmandade"}
+    {"trait_type": "Supply Máximo", "value": "777"},
+    {"trait_type": "Raridade", "value": "Lendário"},
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
