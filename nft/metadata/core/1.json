@@ -1,0 +1,11 @@
+{
+  "name": "ELO 1 - CHAMA 🔥",
+  "description": "Sentido: Amor\nExpressão: Espírito / Propósito\nMeta: Prioridade\nAção: Adoração / Honra\nArquétipo: Cultural",
+  "attributes": [
+    {"trait_type": "Sentido", "value": "Amor"},
+    {"trait_type": "Expressão", "value": "Espírito / Propósito"},
+    {"trait_type": "Meta", "value": "Prioridade"},
+    {"trait_type": "Ação", "value": "Adoração / Honra"},
+    {"trait_type": "Arquétipo", "value": "Cultural"}
+  ]
+}

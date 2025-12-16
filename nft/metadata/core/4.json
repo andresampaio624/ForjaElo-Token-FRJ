@@ -1,0 +1,11 @@
+{
+  "name": "ELO 4 - CENTRAL 🎯",
+  "description": "Sentido: Verdade\nExpressão: Autenticidade\nMeta: Sistema\nAção: Vulnerabilidade\nArquétipo: Virtude",
+  "attributes": [
+    {"trait_type": "Sentido", "value": "Verdade"},
+    {"trait_type": "Expressão", "value": "Autenticidade"},
+    {"trait_type": "Meta", "value": "Sistema"},
+    {"trait_type": "Ação", "value": "Vulnerabilidade"},
+    {"trait_type": "Arquétipo", "value": "Virtude"}
+  ]
+}
