@@ -34,8 +34,9 @@
 - **Tipos:** 7 NFTs (um para cada Elo)
 - **Supply por Elo:** 777 unidades
 - **Contrato:** `contracts/ForjaEloNFT.sol`
-- **Metadados:** 7 arquivos JSON em `/nft-metadata/`
-- **Status:** ✅ Documentado e pronto para deploy
+- **Metadados:** 7 arquivos JSON em `/nft/metadata/`
+- **Imagens:** 7 PNGs em alta resolução em `/nft/images/`
+- **Status:** ✅ Consolidado e pronto para deploy
 
 ### 🔗 **Integração Completa**
 - Token FRJ + NFTs sincronizados
@@ -53,7 +54,7 @@
 
 [![Framework](https://img.shields.io/badge/Framework-7%20Elos-orange?style=for-the-badge)](documentacao/7-ELOS.md)
 [![Token FRJ](https://img.shields.io/badge/Token%20FRJ-ERC--20-3C3C3D?style=for-the-badge)](./contracts/ForjaElo.sol)
-[![NFT Collection](https://img.shields.io/badge/NFT%20Collection-ERC--1155-purple?style=for-the-badge)](./NFT-INTEGRATION.md)
+[![NFT Collection](https://img.shields.io/badge/NFT%20Collection-ERC--1155-purple?style=for-the-badge)](./NFT-CONTEXT.md)
 [![Licença](https://img.shields.io/badge/Licença-MIT-yellow?style=for-the-badge)](LICENCA.md)
 [![Status](https://img.shields.io/badge/Status-v0.1.0-green?style=for-the-badge)](#)
 
@@ -71,6 +72,8 @@
 - 🎨 [Contrato NFT Collection](./contracts/ForjaEloNFT.sol)
 - 📊 [Estrutura dos NFTs dos 7 Elos](./docs/NFT-STRUCTURE.md)
 - 🧸 [Guia de Integração NFT](./NFT-INTEGRATION.md)
+- 🎆 **[Contexto NFT Completo](./NFT-CONTEXT.md)** ⭐ NOVO
+- 📋 **[Estrutura do Projeto](./PROJECT-STRUCTURE.md)** ⭐ NOVO
 
 ### 🔍 Verificação e Exploração
 - 🔳 [Token FRJ no PolygonScan](https://polygonscan.com/token/0x1353e990557c05e9336f83053e0b32263d1bba6C)
@@ -82,6 +85,7 @@
 - 🖌️ [Ativos Oficiais](./assets)
 - 💡 [Guia do Contrato e Build](#como-trabalhar-com-os-contratos)
 - 🚀 [Script de Deploy NFT](./scripts/deployNFT.js)
+- 🎁 **[Coleção NFT Consolidada](./nft/)** ⭐ NOVO
 
 ---
 
@@ -105,8 +109,57 @@ Alinhada com o framework, temos uma coleção de **7 NFTs ERC-1155** representan
 - **Metadados:** Compatível com OpenSea e marketplaces
 - **Hospedagem:** IPFS para descentralização
 - **Riqueza de Dados:** Cada NFT carrega 10 atributos do framework
+- **Organização:** Consolidado em pasta única `nft/`
 
-**Saiba mais:** [📊 Documentação Técnica de NFTs](./docs/NFT-STRUCTURE.md) | [🧸 Guia de Integração](./NFT-INTEGRATION.md)
+**Saiba mais:** [📊 Documentação Técnica de NFTs](./docs/NFT-STRUCTURE.md) | [🧸 Guia de Integração](./NFT-INTEGRATION.md) | [🎆 Contexto Completo](./NFT-CONTEXT.md)
+
+---
+
+## 📂 Estrutura do Projeto
+
+```text
+📦 ForjaElo-Token-FRJ/
+├── 🪙 CONTRATO TOKEN
+│   ├── contracts/
+│   │   ├── ForjaElo.sol              # Token ERC-20 FRJ
+│   │   └── ForjaEloNFT.sol          # NFT Collection ERC-1155
+│   └── @openzeppelin/               # Dependências
+│
+├── 🎆 COLEÇÃO NFT (CONSOLIDADA)
+│   ├── nft/                         # ⭐ PASTA PRINCIPAL
+│   │   ├── images/                  # 7 PNGs (22 MB)
+│   │   ├── metadata/                # JSONs organizados
+│   │   │   ├── core/                # Dados essenciais
+│   │   │   ├── ipfs/                # Prontos para deploy
+│   │   │   └── elo-*/               # Detalhes por ELO
+│   │   ├── README.md
+│   │   ├── CORE-TERMS.md
+│   │   └── STATS.md
+│   ├── nft-imagem/                  # Legado (imagens originais)
+│   └── nft-metadata/                # Legado (estrutura anterior)
+│
+├── 📚 DOCUMENTAÇÃO
+│   ├── docs/
+│   │   ├── NFT-STRUCTURE.md         # Especificação técnica NFT
+│   │   ├── README.md                # Docs rápidas
+│   │   └── ...
+│   ├── NFT-INTEGRATION.md           # Guia integração
+│   ├── PROJECT-STRUCTURE.md         # ⭐ Estrutura completa
+│   ├── NFT-CONTEXT.md              # ⭐ Contexto NFT
+│   └── README.md (este arquivo)
+│
+├── 🚀 SCRIPTS
+│   └── scripts/
+│       ├── deployNFT.js             # Deploy NFT automático
+│       └── generate_polygonscan_input.py
+│
+└── 🔍 VERIFICAÇÃO
+    ├── polygon-verify/              # Artefatos PolygonScan
+    ├── metadata.json                # Metadados Sourcify
+    └── LICENSE
+```
+
+📌 **Veja mais detalhes:** [PROJECT-STRUCTURE.md](./PROJECT-STRUCTURE.md) | [NFT-CONTEXT.md](./NFT-CONTEXT.md)
 
 ---
 
@@ -129,40 +182,12 @@ Alinhada com o framework, temos uma coleção de **7 NFTs ERC-1155** representan
 - **Total de Tipos:** 7 (um por Elo)
 - **Supply Máximo por Tipo:** 777 NFTs
 - **Arquivo Contrato:** `contracts/ForjaEloNFT.sol`
-- **Metadados:** `nft-metadata/` (1.json a 7.json)
-- **Status:** ✅ Documentado e pronto para deploy
-
----
-
-## 📂 Estrutura do Projeto
-
-```text
-📦 ForjaElo-Token-FRJ/
-├── 🪙 CONTRATO TOKEN
-│   ├── contracts/
-│   │   ├── ForjaElo.sol              # Token ERC-20 FRJ
-│   │   └── ForjaEloNFT.sol          # NFT Collection ERC-1155
-│   └── @openzeppelin/               # Dependências
-│
-│
-├── 📚 DOCUMENTAÇÃO
-│   ├── docs/
-│   │   ├── NFT-STRUCTURE.md         # Especificação técnica NFT
-│   │   ├── README.md                # Docs rápidas
-│   │   └── ...
-│   ├── NFT-INTEGRATION.md           # Guia integração
-│   └── README.md (este arquivo)
-│
-├── 🚀 SCRIPTS
-│   └── scripts/
-│       ├── deployNFT.js             # Deploy NFT automático
-│       └── generate_polygonscan_input.py
-│
-└── 🔍 VERIFICAÇÃO
-    ├── polygon-verify/              # Artefatos PolygonScan
-    ├── metadata.json                # Metadados Sourcify
-    └── LICENSE
-```
+- **Metadados:** `nft/metadata/` (consolidado)
+  - Core: `nft/metadata/core/` (dados essenciais)
+  - IPFS Ready: `nft/metadata/ipfs/` (prontos para deploy)
+  - Detalhados: `nft/metadata/elo-*/` (informações completas)
+- **Imagens:** `nft/images/` (7 PNGs em alta resolução)
+- **Status:** ✅ Consolidado e pronto para deploy
 
 ---
 
@@ -207,6 +232,14 @@ npx hardhat run scripts/deployNFT.js --network ethereum
 npx hardhat run scripts/deployNFT.js --network polygon
 ```
 
+### Preparar Metadados para IPFS
+
+```bash
+# Arquivos prontos em nft/metadata/ipfs/
+ls nft/metadata/ipfs/
+# 1.json - 7.json (ERC-721 válido)
+```
+
 ### Verificação Pública
 
 #### No PolygonScan (Token FRJ)
@@ -231,6 +264,7 @@ npx hardhat run scripts/deployNFT.js --network polygon
 - ✅ Tesouraria protegida por Gnosis Safe (multi-sig)
 - ✅ Documentação pública para facilitar auditorias
 - ✅ Licença MIT explícita
+- ✅ **Pasta NFT consolidada e bem documentada** ⭐
 
 Consulte também:
 - [Relatório de Auditoria](./docs/AUDIT_REPORT.md)
@@ -254,9 +288,12 @@ Consulte também:
 - ✅ Compilação alinhada: Solidity **v0.8.30+commit.73712a01**
 - ✅ Todos os arquivos para verificação em corretoras inclusos
 - ✅ Metadados de NFTs alinhados com tabela dos 7 Elos oficial
+- ✅ Imagens NFT em alta resolução (7 PNGs - 22 MB)
+- ✅ Metadados organizados em estrutura clara
 - ✅ Licenciamento MIT explícito
 - ✅ Sem dependências proprietárias ocultas
 - ✅ Dossiê do framework acessível via [gist oficial](https://gist.github.com/andresampaio624/931df060cdd5d29693c1e95169abf0a1)
+- ✅ **Pasta NFT consolidada com documentação completa** ⭐
 
 ---
 
@@ -267,6 +304,7 @@ Consulte também:
 - [x] Coleção NFT ERC-1155 dos 7 Elos especificada
 - [x] Metadados alinhados com framework
 - [x] Documentação técnica completa
+- [x] **Pasta NFT consolidada e integrada** ⭐
 
 ### Fase 2: Lançamento 🚀
 - [ ] Deploy NFT Collection em mainnet
@@ -294,6 +332,6 @@ Distribuído sob a [MIT License](./LICENSE). Consulte o arquivo para mais detalh
 
 Transformação Pessoal através do Web3
 
-[🌐 Framework Completo](https://github.com/andresampaio624/ForjaElo-Framework) • [🪙 Token FRJ](./contracts/ForjaElo.sol) • [🎨 NFT Collection](./contracts/ForjaEloNFT.sol)
+[🌐 Framework Completo](https://github.com/andresampaio624/ForjaElo-Framework) • [🪙 Token FRJ](./contracts/ForjaElo.sol) • [🎨 NFT Collection](./contracts/ForjaEloNFT.sol) • [🎆 Contexto NFT](./NFT-CONTEXT.md)
 
 </div>
