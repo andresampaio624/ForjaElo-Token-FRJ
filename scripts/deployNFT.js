@@ -18,7 +18,7 @@ async function main() {
 
   // Define metadata base URI (IPFS)
   // Replace with your actual IPFS hash
-  const IPFS_BASE_URI = "ipfs://QmYourIPFSHashHere/";
+  const IPFS_BASE_URI = "ipfs://bafybeid4nbkkgusa2i3smcnd4dlxi7hhm7bqxyxp53voobwhseruvqvg54/";
   
   console.log(`Metadata Base URI: ${IPFS_BASE_URI}`);
   console.log("Deploying ForjaEloNFT contract...\n");
