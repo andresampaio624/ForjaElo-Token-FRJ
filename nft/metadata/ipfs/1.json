@@ -1,11 +1,19 @@
 {
   "name": "ELO 1 - CHAMA 🔥",
   "description": "Sentido: Amor\nExpressão: Espírito / Propósito\nMeta: Prioridade\nAção: Adoração / Honra\nArquétipo: Cultural",
+  "image": "ipfs://bafybeih7irra2m4jqnvzxaxiznewuzxmatk3d3gpzhfv4oes2zr3iaexa4",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
   "attributes": [
+    {"trait_type": "Elo", "value": "CHAMA"},
+    {"trait_type": "Número", "value": "1"},
+    {"trait_type": "Símbolo", "value": "🔥"},
     {"trait_type": "Sentido", "value": "Amor"},
     {"trait_type": "Expressão", "value": "Espírito / Propósito"},
     {"trait_type": "Meta", "value": "Prioridade"},
     {"trait_type": "Ação", "value": "Adoração / Honra"},
-    {"trait_type": "Arquétipo", "value": "Cultural"}
+    {"trait_type": "Arquétipo", "value": "Cultural"},
+    {"trait_type": "Supply Máximo", "value": "777"},
+    {"trait_type": "Raridade", "value": "Lendário"},
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
