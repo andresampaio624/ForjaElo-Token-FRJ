@@ -9,5 +9,8 @@
     {"trait_type": "Meta", "value": "Sistema"},
     {"trait_type": "Ação", "value": "Vulnerabilidade"},
     {"trait_type": "Arquétipo", "value": "Virtude"}
+    {"trait_type": "Supply Máximo", "value": "777"},
+    {"trait_type": "Raridade", "value": "Lendário"},
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
