@@ -184,7 +184,6 @@ A Coleção de NFTs ForjaElo representa digitalmente os 7 Elos do Framework de T
 - **Hospedagem:** IPFS (recomendado)
 
 ### Atributos Padrão em Cada NFT
-```json
 
 ```
 
