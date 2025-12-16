@@ -1,18 +1,10 @@
 {
-  "name": "ForjaElo - CHAMA (Elo 1) 🔥",
-  "description": "Elo Fundação da Transformação Pessoal. CHAMA representa o Sentido do Amor, a Expressão do Espírito/Propósito. Este NFT simboliza o despertar da chama interior que acende a jornada de transformação. Meta: Prioridade. Ação: Adoração/Honra.",
-  "image": "ipfs://QmPlaceholder/chama.png",
-  "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
+  "name": "ELO 1 - CHAMA 🔥",
   "attributes": [
-    {"trait_type": "Elo", "value": "CHAMA"},
-    {"trait_type": "Número do Elo", "value": "1"},
     {"trait_type": "Sentido", "value": "Amor"},
-    {"trait_type": "Expressão", "value": "Espírito/Propósito"},
+    {"trait_type": "Expressão", "value": "Espírito"},
     {"trait_type": "Meta", "value": "Prioridade"},
-    {"trait_type": "Ação", "value": "Adoração/Honra"},
-    {"trait_type": "Símbolo", "value": "🔥"},
-    {"trait_type": "Supply Máximo", "value": "777"},
-    {"trait_type": "Raridade", "value": "Lendário"},
-    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
+    {"trait_type": "Ação", "value": "Adoração"},
+    {"trait_type": "Arquétipo", "value": "Cultural"}
   ]
 }
