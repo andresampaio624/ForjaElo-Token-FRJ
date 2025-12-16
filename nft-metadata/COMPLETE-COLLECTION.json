@@ -1,0 +1,340 @@
+{
+  "collection": {
+    "name": "ForjaElo - 7 Elos",
+    "version": "1.0.0",
+    "description": "Coleção oficial de NFTs do projeto ForjaElo Token. Cada NFT representa um nível ELO com seus atributos filosóficos e práticos.",
+    "creator": "ForjaElo Project",
+    "totalSupply": 7,
+    "network": "Polygon (multi-chain support available)",
+    "imageFormat": "PNG",
+    "metadataStandard": "ERC-721",
+    "updatedAt": "2025-12-16",
+    "status": "Ready for deployment"
+  },
+  "elos": [
+    {
+      "id": 1,
+      "tokenId": 1,
+      "nome": "CHAMA",
+      "emoji": "🔥",
+      "imagemArquivo": "ELO 1 - CHAMA (🔥).png",
+      "tamanho": "2.8 MB",
+      "descricaoCurta": "O coração ardente da transformação. O fogo da paixão e do amor incondicional.",
+      "atributos": {
+        "sentido": "Amor",
+        "expressao": "Espírito / Propósito",
+        "meta": "Prioridade",
+        "acao": "Adoração / Honra",
+        "arquetipo": "Cultural"
+      },
+      "significadoSimbolico": [
+        "🔥 Transformação: Do estado atual para o potencial",
+        "❤️ Amor: Base emocional de todas as ações",
+        "🎯 Propósito: Clareza da razão de existir",
+        "🙏 Adoração: Reverência e honra ao processo"
+      ],
+      "aplicacoesPraticas": [
+        "Reconectar com seu propósito de vida",
+        "Cultivar amor pela jornada de transformação",
+        "Priorizar o que realmente importa",
+        "Honrar os passos já dados"
+      ],
+      "temas": [
+        "Purpose",
+        "Passion",
+        "Love",
+        "Transformation",
+        "Priority"
+      ]
+    },
+    {
+      "id": 2,
+      "tokenId": 2,
+      "nome": "REFÚGIO",
+      "emoji": "🏞️",
+      "imagemArquivo": "ELO 2 - REFÚGIO (🏞️).png",
+      "tamanho": "3.3 MB",
+      "descricaoCurta": "O espaço sagrado de restauração. Onde a alma encontra paz e clareza.",
+      "atributos": {
+        "sentido": "Alma",
+        "expressao": "Justiça",
+        "meta": "Liderança",
+        "acao": "Desintoxicação",
+        "arquetipo": "Natural"
+      },
+      "significadoSimbolico": [
+        "🌿 Natureza: Retorno ao essencial",
+        "🧘 Alma: Conexão com o ser profundo",
+        "⚖️ Justiça: Equilíbrio e harmonia",
+        "🌊 Purificação: Limpeza e renovação"
+      ],
+      "aplicacoesPraticas": [
+        "Criar espaços seguros para regeneração",
+        "Desintoxicar aspectos da vida",
+        "Desenvolver liderança autêntica",
+        "Restaurar a conexão com a alma"
+      ],
+      "temas": [
+        "Healing",
+        "Restoration",
+        "Balance",
+        "Leadership",
+        "Purification"
+      ]
+    },
+    {
+      "id": 3,
+      "tokenId": 3,
+      "nome": "POTÊNCIA",
+      "emoji": "⚡",
+      "imagemArquivo": "ELO 3 - POTÊNCIA (⚡).png",
+      "tamanho": "3.0 MB",
+      "descricaoCurta": "A energia canalizada e estruturada. Força transformada em poder direcionado.",
+      "atributos": {
+        "sentido": "Força",
+        "expressao": "Processo",
+        "meta": "Hábito",
+        "acao": "Automatizar",
+        "arquetipo": "Máquina"
+      },
+      "significadoSimbolico": [
+        "⚡ Força: Poder bruto canalizado",
+        "🔄 Processo: Estrutura repetida",
+        "🎲 Hábito: Ação automática",
+        "🤖 Máquina: Eficiência e precisão"
+      ],
+      "aplicacoesPraticas": [
+        "Estruturar processos poderosos",
+        "Desenvolver hábitos transformadores",
+        "Automatizar ações repetitivas",
+        "Canalizar força com propósito"
+      ],
+      "temas": [
+        "Power",
+        "Habit",
+        "System",
+        "Efficiency",
+        "Action"
+      ]
+    },
+    {
+      "id": 4,
+      "tokenId": 4,
+      "nome": "CENTRAL",
+      "emoji": "🎯",
+      "imagemArquivo": "ELO 4 - CENTRAL (🎯).png",
+      "tamanho": "3.1 MB",
+      "descricaoCurta": "O ponto de convergência de toda transformação. A verdade absoluta e autenticidade completa.",
+      "atributos": {
+        "sentido": "Verdade",
+        "expressao": "Autenticidade",
+        "meta": "Sistema",
+        "acao": "Vulnerabilidade",
+        "arquetipo": "Virtude"
+      },
+      "significadoSimbolico": [
+        "🎯 Alvo: Foco no essencial",
+        "💎 Verdade: Realidade sem véus",
+        "🛡️ Virtude: Excelência de caráter",
+        "💬 Autenticidade: Ser genuíno"
+      ],
+      "aplicacoesPraticas": [
+        "Buscar a verdade em todas as coisas",
+        "Ser vulnerável e autêntico",
+        "Construir sistemas sustentáveis",
+        "Alinhar ações com valores"
+      ],
+      "temas": [
+        "Truth",
+        "Authenticity",
+        "System",
+        "Virtue",
+        "Focus"
+      ]
+    },
+    {
+      "id": 5,
+      "tokenId": 5,
+      "nome": "TALENTO",
+      "emoji": "🎨",
+      "imagemArquivo": "ELO 5 - TALENTO (🎨).png",
+      "tamanho": "3.4 MB",
+      "descricaoCurta": "A expressão máxima do domínio e excelência. Desenvolvimento do potencial único.",
+      "atributos": {
+        "sentido": "Valor",
+        "expressao": "Domínio",
+        "meta": "Espaço",
+        "acao": "Mordomia",
+        "arquetipo": "Excelência"
+      },
+      "significadoSimbolico": [
+        "🎨 Criatividade: Expressão própria",
+        "👑 Domínio: Maestria completa",
+        "⭐ Valor: Contribuição significativa",
+        "🏆 Excelência: Qualidade superior"
+      ],
+      "aplicacoesPraticas": [
+        "Identificar e desenvolver talentos únicos",
+        "Alcançar domínio em áreas chave",
+        "Contribuir com valor ao mundo",
+        "Exercer mordomia responsável dos dons"
+      ],
+      "temas": [
+        "Excellence",
+        "Mastery",
+        "Value",
+        "Creativity",
+        "Stewardship"
+      ]
+    },
+    {
+      "id": 6,
+      "tokenId": 6,
+      "nome": "ATLETA",
+      "emoji": "🏃",
+      "imagemArquivo": "ELO 6 - ATLETA (🏃).png",
+      "tamanho": "3.4 MB",
+      "descricaoCurta": "A maestria do corpo e da ação. Aplicação prática do conhecimento em movimento.",
+      "atributos": {
+        "sentido": "Corpo",
+        "expressao": "Biologia",
+        "meta": "Forma",
+        "acao": "Testar",
+        "arquetipo": "Foco"
+      },
+      "significadoSimbolico": [
+        "💪 Corpo: Veículo da transformação",
+        "🔬 Biologia: Ciência do ser",
+        "⚙️ Forma: Estrutura que sustenta",
+        "🎬 Ação: Prática contínua"
+      ],
+      "aplicacoesPraticas": [
+        "Cuidar do corpo como instrumento",
+        "Testar ideias na prática",
+        "Manter foco no que importa",
+        "Desenvolver força e resistência"
+      ],
+      "temas": [
+        "Action",
+        "Focus",
+        "Body",
+        "Testing",
+        "Practice"
+      ]
+    },
+    {
+      "id": 7,
+      "tokenId": 7,
+      "nome": "IDÉ",
+      "emoji": "💡",
+      "imagemArquivo": "ELO 7 - IDÉ (💡).png",
+      "tamanho": "3.4 MB",
+      "descricaoCurta": "A síntese iluminada de todo o processo. Onde ideias encontram comunidade.",
+      "atributos": {
+        "sentido": "Servir",
+        "expressao": "Química",
+        "meta": "Conexão",
+        "acao": "Encorajar",
+        "arquetipo": "Irmandade"
+      },
+      "significadoSimbolico": [
+        "💡 Iluminação: Clareza e visão",
+        "🔗 Conexão: Unidade na diversidade",
+        "🤝 Irmandade: Comunidade de propósito",
+        "🎆 Alquimia: Transformação mágica"
+      ],
+      "aplicacoesPraticas": [
+        "Conectar-se com comunidades de propósito",
+        "Servir e ser servido",
+        "Encorajar o crescimento alheio",
+        "Criar sinergia através da irmandade"
+      ],
+      "temas": [
+        "Community",
+        "Connection",
+        "Service",
+        "Alchemy",
+        "Brotherhood"
+      ]
+    }
+  ],
+  "metadadosPadrao": {
+    "descricao": "Estrutura JSON ERC-721 padrão para compatibilidade com marketplaces",
+    "template": {
+      "name": "ELO X - [NOME] [EMOJI]",
+      "description": "Sentido: [valor]\nExpressão: [valor]\nMeta: [valor]\nAção: [valor]\nArquétipo: [valor]",
+      "image": "ipfs://[CID]/ELO%20X%20-%20[NOME]%20([EMOJI]).png",
+      "attributes": [
+        {
+          "trait_type": "Sentido",
+          "value": "[valor]"
+        },
+        {
+          "trait_type": "Expressão",
+          "value": "[valor]"
+        },
+        {
+          "trait_type": "Meta",
+          "value": "[valor]"
+        },
+        {
+          "trait_type": "Ação",
+          "value": "[valor]"
+        },
+        {
+          "trait_type": "Arquétipo",
+          "value": "[valor]"
+        }
+      ]
+    }
+  },
+  "estatisticas": {
+    "totalNFTs": 7,
+    "tamanhoTotalMB": 22,
+    "formatoImagem": "PNG",
+    "resolucaoImagens": "High Quality",
+    "compatibilidadeERC": [
+      "ERC-721",
+      "ERC-1155"
+    ],
+    "marketplacesCompatveis": [
+      "OpenSea",
+      "Rarible",
+      "LooksRare",
+      "Foundation",
+      "Magic Eden",
+      "Blur"
+    ],
+    "redesSuportadas": [
+      "Polygon",
+      "Ethereum",
+      "Arbitrum",
+      "Optimism",
+      "Sepolia (Testnet)"
+    ]
+  },
+  "notas": {
+    "processoDeploy": [
+      "1. Upload das imagens para IPFS (NFT.Storage ou Pinata)",
+      "2. Anotar CIDs de cada imagem",
+      "3. Atualizar metadados JSON com CIDs reais",
+      "4. Upload dos metadados para IPFS",
+      "5. Deploy do contrato inteligente na rede desejada",
+      "6. Configurar baseURI com CID do diretório de metadados",
+      "7. Fazer mint de cada NFT",
+      "8. Verificar no block explorer",
+      "9. Listar no OpenSea"
+    ],
+    "requisitosTecnicos": [
+      "Solidity ^0.8.0",
+      "OpenZeppelin Contracts",
+      "IPFS ou Arweave para storage",
+      "Hardhat ou Truffle para deployment",
+      "Web3.js ou Ethers.js para interação"
+    ]
+  },
+  "licenca": "Todos os direitos reservados - ForjaElo Token Project 2025",
+  "mantenedor": "@andresampaio624",
+  "atualizadoEm": "2025-12-16",
+  "status": "✅ Completo e Verificado"
+}
