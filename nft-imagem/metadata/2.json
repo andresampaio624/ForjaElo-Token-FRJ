@@ -1,40 +1,18 @@
 {
-  "name": "ForjaElo #2 - Refúgio",
-  "description": "ELO 2 - REFÚGIO. Sentido: Alma. Expressão: Justiça. Meta: Liderança. Ação: Desintoxicação. Arquétipo: Natural.",
-  "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-02-refugio.png",
-  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
+  "name": "ForjaElo - REFÚGIO (Elo 2) 🏞️",
+  "description": "Elo de Jus-tiça e Liderança. REFÚGIO representa o Sentido da Alma, a Expressão da Justiça. Este NFT simboliza o abrigo seguro para o crescimento, onde a liderança se estabelece em bases sólidas. Meta: Liderança. Ação: Desintoxicação (libertar do que prejudica).",
+  "image": "ipfs://QmPlaceholder/refugio.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
   "attributes": [
-    {
-      "trait_type": "ELO",
-      "value": "2"
-    },
-    {
-      "trait_type": "Nome",
-      "value": "Refúgio"
-    },
-    {
-      "trait_type": "Emoji",
-      "value": "🏞️"
-    },
-    {
-      "trait_type": "Sentido",
-      "value": "Alma"
-    },
-    {
-      "trait_type": "Expressão",
-      "value": "Justiça"
-    },
-    {
-      "trait_type": "Meta",
-      "value": "Liderança"
-    },
-    {
-      "trait_type": "Ação",
-      "value": "Desintoxicação"
-    },
-    {
-      "trait_type": "Arquétipo",
-      "value": "Natural"
-    }
+    {"trait_type": "Elo", "value": "REFÚGIO"},
+    {"trait_type": "Número do Elo", "value": "2"},
+    {"trait_type": "Sentido", "value": "Alma"},
+    {"trait_type": "Expressão", "value": "Justiça"},
+    {"trait_type": "Meta", "value": "Liderança"},
+    {"trait_type": "Ação", "value": "Desintoxicação"},
+    {"trait_type": "Símbolo", "value": "🏞️"},
+    {"trait_type": "Supply Máximo", "value": "777"},
+    {"trait_type": "Raridade", "value": "Lendário"},
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
