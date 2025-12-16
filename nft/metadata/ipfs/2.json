@@ -1,11 +1,19 @@
 {
-  "name": "ELO 2 - REFUGIO 🏞️",
+  "name": "ELO 2 - REFÚGIO 🏞️",
   "description": "Sentido: Alma\nExpressão: Justiça\nMeta: Liderança\nAção: Desintoxicação\nArquétipo: Natural",
+  "image": "ipfs://bafybeifqtq2qii7pjclfpmaqltcrgni3ngghqwtv4nwvoydz5pxjsbvbr4",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
   "attributes": [
+    {"trait_type": "Elo", "value": "REFÚGIO"},
+    {"trait_type": "Número", "value": "2"},
+    {"trait_type": "Símbolo", "value": "🏞️"},
     {"trait_type": "Sentido", "value": "Alma"},
     {"trait_type": "Expressão", "value": "Justiça"},
     {"trait_type": "Meta", "value": "Liderança"},
     {"trait_type": "Ação", "value": "Desintoxicação"},
-    {"trait_type": "Arquétipo", "value": "Natural"}
+    {"trait_type": "Arquétipo", "value": "Natural"},
+    {"trait_type": "Supply Máximo", "value": "777"},
+    {"trait_type": "Raridade", "value": "Lendário"},
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
