@@ -2,7 +2,7 @@
 
 ## 📋 Visão Geral
 
-Coleção oficial de NFTs do projeto ForjaElo Token (FRJ). Cada NFT representa um nível diferente de ELO com características únicas e design exclusivo.
+Coleção oficial de NFTs do projeto ForjaElo Token (FRJ). Cada NFT representa um nível ELO com seus atributos oficiais.
 
 ## 📁 Estrutura do Repositório
 
@@ -24,60 +24,60 @@ nft-imagem/
 
 ## 🎨 Coleção Completa
 
-### ELO 1 - CHAMA 🔥
-- **Arquivo:** `ELO 1 - CHAMA (🔥).png`
-- **Tema:** Fogo e Início
-- **Raridade:** Comum
-- **Elemento:** Fogo
-- **Tamanho:** ~2.7 MB
+### *️⃣ ELO 1 - CHAMA (🔥)
+- **Sentido:** Amor
+- **Expressão:** Espírito / Propósito
+- **Meta:** Prioridade
+- **Ação:** Adoração / Honra
+- **Arquétipo:** Cultural
 - **Metadados:** [`metadata/1.json`](./metadata/1.json)
 
-### ELO 2 - REFÚGIO 🏞️
-- **Arquivo:** `ELO 2 - REFÚGIO (🏞️).png`
-- **Tema:** Natureza e Proteção
-- **Raridade:** Comum
-- **Elemento:** Natureza
-- **Tamanho:** ~3.3 MB
+### *️⃣ ELO 2 - REFÚGIO (🏞️)
+- **Sentido:** Alma
+- **Expressão:** Justiça
+- **Meta:** Liderança
+- **Ação:** Desintoxicação
+- **Arquétipo:** Natural
 - **Metadados:** [`metadata/2.json`](./metadata/2.json)
 
-### ELO 3 - POTÊNCIA ⚡
-- **Arquivo:** `ELO 3 - POTÊNCIA (⚡).png`
-- **Tema:** Energia e Força
-- **Raridade:** Incomum
-- **Elemento:** Energia
-- **Tamanho:** ~2.9 MB
+### *️⃣ ELO 3 - POTÊNCIA (⚡)
+- **Sentido:** Força
+- **Expressão:** Processo
+- **Meta:** Hábito
+- **Ação:** Automatizar
+- **Arquétipo:** Máquina
 - **Metadados:** [`metadata/3.json`](./metadata/3.json)
 
-### ELO 4 - CENTRAL 🎯
-- **Arquivo:** `ELO 4 - CENTRAL (🎯).png`
-- **Tema:** Foco e Precisão
-- **Raridade:** Incomum
-- **Elemento:** Equilíbrio
-- **Tamanho:** ~3.1 MB
+### *️⃣ ELO 4 - CENTRAL (🎯)
+- **Sentido:** Verdade
+- **Expressão:** Autenticidade
+- **Meta:** Sistema
+- **Ação:** Vulnerabilidade
+- **Arquétipo:** Virtude
 - **Metadados:** [`metadata/4.json`](./metadata/4.json)
 
-### ELO 5 - TALENTO 🎨
-- **Arquivo:** `ELO 5 - TALENTO (🎨).png`
-- **Tema:** Arte e Criatividade
-- **Raridade:** Raro
-- **Elemento:** Arte
-- **Tamanho:** ~3.4 MB
+### *️⃣ ELO 5 - TALENTO (🎨)
+- **Sentido:** Valor
+- **Expressão:** Domínio
+- **Meta:** Espaço
+- **Ação:** Mordomia
+- **Arquétipo:** Excelência
 - **Metadados:** [`metadata/5.json`](./metadata/5.json)
 
-### ELO 6 - ATLETA 🏃
-- **Arquivo:** `ELO 6 - ATLETA (🏃).png`
-- **Tema:** Movimento e Performance
-- **Raridade:** Raro
-- **Elemento:** Movimento
-- **Tamanho:** ~3.4 MB
+### *️⃣ ELO 6 - ATLETA (🏃)
+- **Sentido:** Corpo
+- **Expressão:** Biologia
+- **Meta:** Forma
+- **Ação:** Testar
+- **Arquétipo:** Foco
 - **Metadados:** [`metadata/6.json`](./metadata/6.json)
 
-### ELO 7 - IDÉ 💡
-- **Arquivo:** `ELO 7 - IDÉ (💡).png`
-- **Tema:** Inovação e Conhecimento
-- **Raridade:** Épico
-- **Elemento:** Conhecimento
-- **Tamanho:** ~3.4 MB
+### *️⃣ ELO 7 - IDÉ (💡)
+- **Sentido:** Servir
+- **Expressão:** Química
+- **Meta:** Conexão
+- **Ação:** Encorajar
+- **Arquétipo:** Irmandade
 - **Metadados:** [`metadata/7.json`](./metadata/7.json)
 
 ## 📊 Estatísticas da Coleção
@@ -90,14 +90,17 @@ nft-imagem/
 | Resolução | Alta Qualidade |
 | Metadados | JSON (padrão ERC-721) |
 
-## 📖 Distribuição de Raridade
+## 📖 Atributos dos ELOs
 
-| Raridade | Quantidade | NFTs |
-|----------|------------|------|
-| Comum | 2 | ELO 1, 2 |
-| Incomum | 2 | ELO 3, 4 |
-| Raro | 2 | ELO 5, 6 |
-| Épico | 1 | ELO 7 |
+| ELO | Nome | Sentido | Expressão | Meta | Ação | Arquétipo |
+|-----|------|---------|-----------|------|------|----------|
+| 1 | Chama | Amor | Espírito / Propósito | Prioridade | Adoração / Honra | Cultural |
+| 2 | Refúgio | Alma | Justiça | Liderança | Desintoxicação | Natural |
+| 3 | Potência | Força | Processo | Hábito | Automatizar | Máquina |
+| 4 | Central | Verdade | Autenticidade | Sistema | Vulnerabilidade | Virtude |
+| 5 | Talento | Valor | Domínio | Espaço | Mordomia | Excelência |
+| 6 | Atleta | Corpo | Biologia | Forma | Testar | Foco |
+| 7 | Idé | Servir | Química | Conexão | Encorajar | Irmandade |
 
 ## 🚀 Guia Rápido de Deploy
 
