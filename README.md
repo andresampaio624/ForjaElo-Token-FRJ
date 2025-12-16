@@ -135,8 +135,6 @@ Alinhada com o framework, temos uma coleção de **7 NFTs ERC-1155** representan
 │   │   ├── README.md
 │   │   ├── CORE-TERMS.md
 │   │   └── STATS.md
-│   ├── nft-imagem/                  # Legado (imagens originais)
-│   └── nft-metadata/                # Legado (estrutura anterior)
 │
 ├── 📚 DOCUMENTAÇÃO
 │   ├── docs/
