@@ -130,7 +130,53 @@ A Coleção de NFTs ForjaElo representa digitalmente os 7 Elos do Framework de T
 
 ### Metadados
 - **Padrão:** OpenSea Compatible
-- **Local:** `nft-metadata/`
+- **Local:** `nft/
+├── README.md                      # Este arquivo
+├── images/                        # Imagens PNG
+│   ├── README.md
+│   ├── ELO 1 - CHAMA (🔥).png
+│   ├── ELO 2 - REFÚGIO (🏞️).png
+│   ├── ELO 3 - POTÊNCIA (⚡).png
+│   ├── ELO 4 - CENTRAL (🎯).png
+│   ├── ELO 5 - TALENTO (🎨).png
+│   ├── ELO 6 - ATLETA (🏃).png
+│   └── ELO 7 - IDÉ (💡).png
+│
+├── metadata/                      # Metadados JSON
+│   ├── README.md
+│   ├── core/                       # Dados essenciais
+│   │   ├── elos.json                # Mestre de todos os ELOs
+│   │   ├── 1.json
+│   │   ├── 2.json
+│   │   ├── 3.json
+│   │   ├── 4.json
+│   │   ├── 5.json
+│   │   ├── 6.json
+│   │   └── 7.json
+│   │
+│   ├── ipfs/                       # Prontos para IPFS
+│   │   ├── 1.json
+│   │   ├── 2.json
+│   │   ├── 3.json
+│   │   ├── 4.json
+│   │   ├── 5.json
+│   │   ├── 6.json
+│   │   └── 7.json
+│   │
+│   ├── elo-1-chama/
+│   │   ├── index.json
+│   │   ├── full-metadata.json
+│   │   └── schema.json
+│   │
+│   ├── elo-2-refugio/
+│   ├── elo-3-potencia/
+│   ├── elo-4-central/
+│   ├── elo-5-talento/
+│   ├── elo-6-atleta/
+│   └── elo-7-ide/
+│
+├── CORE-TERMS.md                  # Referência de termos
+└── STATS.md                       # Estatísticas`
 - **Formato:** JSON (1.json a 7.json)
 - **Hospedagem:** IPFS (recomendado)
 
