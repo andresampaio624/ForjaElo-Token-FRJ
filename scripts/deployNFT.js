@@ -37,7 +37,7 @@ async function main() {
   console.log("  4. 🎯 CENTRAL - Verdade/Sistema");
   console.log("  5. 🎨 TALENTO - Valor/Domínio");
   console.log("  6. 🏃 ATLETA  - Corpo/Forma");
-  console.log("  7. 💡 IDÉ     - Servir/Conexão");
+  console.log(" 7. 💡 IDEIA - Servir/Conexão");
   console.log("\n" + "=".repeat(50));
 
   // Store deployment info
