@@ -1,11 +1,19 @@
 {
-  "name": "ELO 3 - POTENCIA ⚡",
+  "name": "ELO 3 - POTÊNCIA ⚡",
   "description": "Sentido: Força\nExpressão: Processo\nMeta: Hábito\nAção: Automatizar\nArquétipo: Maquina",
+  "image": "ipfs://bafybeih2g2zhthu6b3tdeunc53sjouom3dtjepvhggelibzdqsc6by3d4q",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
   "attributes": [
+    {"trait_type": "Elo", "value": "POTÊNCIA"},
+    {"trait_type": "Número", "value": "3"},
+    {"trait_type": "Símbolo", "value": "⚡"},
     {"trait_type": "Sentido", "value": "Força"},
     {"trait_type": "Expressão", "value": "Processo"},
     {"trait_type": "Meta", "value": "Hábito"},
     {"trait_type": "Ação", "value": "Automatizar"},
-    {"trait_type": "Arquétipo", "value": "Maquina"}
+    {"trait_type": "Arquétipo", "value": "Maquina"},
+    {"trait_type": "Supply Máximo", "value": "777"},
+    {"trait_type": "Raridade", "value": "Lendário"},
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
