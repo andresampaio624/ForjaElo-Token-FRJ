@@ -1,0 +1,32 @@
+{
+  "name": "ForjaElo #7 - Idé",
+  "description": "A iluminação do conhecimento e inovação. Representa o nível máximo de sabedoria no ecossistema.",
+  "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-07-ide.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
+  "attributes": [
+    {
+      "trait_type": "ELO Level",
+      "value": "7"
+    },
+    {
+      "trait_type": "Tipo",
+      "value": "Idé"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Épico"
+    },
+    {
+      "trait_type": "Elemento",
+      "value": "Conhecimento"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "💡"
+    },
+    {
+      "trait_type": "Coleção",
+      "value": "ForjaElo Genesis"
+    }
+  ]
+}

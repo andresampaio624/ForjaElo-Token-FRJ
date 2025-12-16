@@ -1,0 +1,32 @@
+{
+  "name": "ForjaElo #5 - Talento",
+  "description": "A manifestação da criatividade e arte. Representa habilidades únicas e expressão artística.",
+  "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-05-talento.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
+  "attributes": [
+    {
+      "trait_type": "ELO Level",
+      "value": "5"
+    },
+    {
+      "trait_type": "Tipo",
+      "value": "Talento"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Raro"
+    },
+    {
+      "trait_type": "Elemento",
+      "value": "Arte"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "🎨"
+    },
+    {
+      "trait_type": "Coleção",
+      "value": "ForjaElo Genesis"
+    }
+  ]
+}

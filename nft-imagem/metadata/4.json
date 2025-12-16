@@ -1,0 +1,32 @@
+{
+  "name": "ForjaElo #4 - Central",
+  "description": "O ponto central de todas as estratégias. Representa foco e precisão nas ações.",
+  "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-04-central.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
+  "attributes": [
+    {
+      "trait_type": "ELO Level",
+      "value": "4"
+    },
+    {
+      "trait_type": "Tipo",
+      "value": "Central"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Incomum"
+    },
+    {
+      "trait_type": "Elemento",
+      "value": "Equilíbrio"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "🎯"
+    },
+    {
+      "trait_type": "Coleção",
+      "value": "ForjaElo Genesis"
+    }
+  ]
+}
