@@ -1,18 +1,10 @@
 {
-  "name": "ForjaElo - IDÉ (Elo 7) 💡",
-  "description": "Elo de Serviço e Conexão. IDÉ representa o Sentido de Servir, a Expressão da Química. Este NFT simboliza o ponto de culminação onde os seis elos se unem para servir ao todo. A conexão transcendental que encoraja e transforma a comunidade. Meta: Conexão. Ação: Encorajar.",
-  "image": "ipfs://QmPlaceholder/ide.png",
-  "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
+  "name": "ELO 7 - IDE 💡",
   "attributes": [
-    {"trait_type": "Elo", "value": "IDÉ"},
-    {"trait_type": "Número do Elo", "value": "7"},
     {"trait_type": "Sentido", "value": "Servir"},
     {"trait_type": "Expressão", "value": "Química"},
     {"trait_type": "Meta", "value": "Conexão"},
     {"trait_type": "Ação", "value": "Encorajar"},
-    {"trait_type": "Símbolo", "value": "💡"},
-    {"trait_type": "Supply Máximo", "value": "777"},
-    {"trait_type": "Raridade", "value": "Lendário"},
-    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
+    {"trait_type": "Arquétipo", "value": "Irmãndade"}
   ]
 }
