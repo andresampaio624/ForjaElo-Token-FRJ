@@ -1,6 +1,8 @@
 {
   "name": "ELO 7 - IDE 💡",
   "description": "Sentido: Servir\nExpressão: Química\nMeta: Conexão\nAção: Encorajar\nArquétipo: Irmandade",
+  "image": "ipfs://bafybeif3guos3xxbv7oy3bsqewe33biqgrovb662xzlowatjqr2y5v5uma",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
   "attributes": [
     {"trait_type": "Sentido", "value": "Servir"},
     {"trait_type": "Expressão", "value": "Química"},
