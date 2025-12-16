@@ -1,32 +1,40 @@
 {
   "name": "ForjaElo #1 - Chama",
-  "description": "A chama inicial que acende o potencial. Representa o início da jornada no ecossistema ForjaElo.",
+  "description": "ELO 1 - CHAMA. Sentido: Amor. Expressão: Espírito / Propósito. Meta: Prioridade. Ação: Adoração / Honra. Arquétipo: Cultural.",
   "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-01-chama.png",
   "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
   "attributes": [
     {
-      "trait_type": "ELO Level",
+      "trait_type": "ELO",
       "value": "1"
     },
     {
-      "trait_type": "Tipo",
+      "trait_type": "Nome",
       "value": "Chama"
-    },
-    {
-      "trait_type": "Raridade",
-      "value": "Comum"
-    },
-    {
-      "trait_type": "Elemento",
-      "value": "Fogo"
     },
     {
       "trait_type": "Emoji",
       "value": "🔥"
     },
     {
-      "trait_type": "Coleção",
-      "value": "ForjaElo Genesis"
+      "trait_type": "Sentido",
+      "value": "Amor"
+    },
+    {
+      "trait_type": "Expressão",
+      "value": "Espírito / Propósito"
+    },
+    {
+      "trait_type": "Meta",
+      "value": "Prioridade"
+    },
+    {
+      "trait_type": "Ação",
+      "value": "Adoração / Honra"
+    },
+    {
+      "trait_type": "Arquétipo",
+      "value": "Cultural"
     }
   ]
 }
