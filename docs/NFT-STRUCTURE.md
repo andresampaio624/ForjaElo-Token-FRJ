@@ -130,7 +130,9 @@ A Coleção de NFTs ForjaElo representa digitalmente os 7 Elos do Framework de T
 
 ### Metadados
 - **Padrão:** OpenSea Compatible
-- **Local:** `nft/
+- **Local:** 
+```
+`nft/
 ├── README.md                      # Este arquivo
 ├── images/                        # Imagens PNG
 │   ├── README.md
@@ -177,6 +179,7 @@ A Coleção de NFTs ForjaElo representa digitalmente os 7 Elos do Framework de T
 │
 ├── CORE-TERMS.md                  # Referência de termos
 └── STATS.md                       # Estatísticas`
+
 - **Formato:** JSON (1.json a 7.json)
 - **Hospedagem:** IPFS (recomendado)
 
