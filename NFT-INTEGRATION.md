@@ -11,11 +11,11 @@ Este documento descreve como os NFTs do ForjaElo estão integrados com o token F
 | Elo | Símbolo | Sentido | Expressão | Meta | Ação | Token ID | Status |
 |-----|---------|---------|------------|------|------|----------|--------|
 | **CHAMA** | 🔥 | Amor | Espírito/Propósito | Prioridade | Adoração/Honra | 1 | ✅ Deploy |
-| **REFÚGIO** | 🌞 | Alma | Justiça | Liderança | Desintoxicação | 2 | ✅ Deploy |
+| **REFÚGIO** | 🏞️ | Alma | Justiça | Liderança | Desintoxicação | 2 | ✅ Deploy |
 | **POTÊNCIA** | ⚡ | Força | Processo | Hábito | Automatizar | 3 | ✅ Deploy |
-| **CENTRAL** | 🎏 | Verdade | Autenticidade | Sistema | Vulnerabilidade | 4 | ✅ Deploy |
-| **TALENTO** | 🎎 | Valor | Domínio | Espaço | Mordomia | 5 | ✅ Deploy |
-| **ATLETA** | 🏋 | Corpo | Biologia | Forma | Testar | 6 | ✅ Deploy |
+| **CENTRAL** | 🎯 | Verdade | Autenticidade | Sistema | Vulnerabilidade | 4 | ✅ Deploy |
+| **TALENTO** | 🎨 | Valor | Domínio | Espaço | Mordomia | 5 | ✅ Deploy |
+| **ATLETA** | 🏃 | Corpo | Biologia | Forma | Testar | 6 | ✅ Deploy |
 | **IDÉ** | 💡 | Servir | Química | Conexão | Encorajar | 7 | ✅ Deploy |
 
 ---
