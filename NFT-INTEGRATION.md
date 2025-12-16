@@ -68,14 +68,45 @@ ForjaElo-Token-FRJ/
 ├── contracts/
 │   ├── ForjaElo.sol          # Token ERC-20 FRJ
 │   └── ForjaEloNFT.sol      # Elos NFT ERC-1155
-├── nft-metadata/
-│   ├── 1.json               # CHAMA metadata
-│   ├── 2.json               # REFÚGIO metadata
-│   ├── 3.json               # POTÊNCIA metadata
-│   ├── 4.json               # CENTRAL metadata
-│   ├── 5.json               # TALENTO metadata
-│   ├── 6.json               # ATLETA metadata
-│   └── 7.json               # IDÉ metadata
+nft/
+├── README.md                      # Este arquivo
+├── images/                        # Imagens PNG
+│
+├── metadata/                      # Metadados JSON
+│   ├── README.md
+│   ├── core/                       # Dados essenciais
+│   │   ├── elos.json                # Mestre de todos os ELOs
+│   │   ├── 1.json
+│   │   ├── 2.json
+│   │   ├── 3.json
+│   │   ├── 4.json
+│   │   ├── 5.json
+│   │   ├── 6.json
+│   │   └── 7.json
+│   │
+│   ├── ipfs/                       # Prontos para IPFS
+│   │   ├── 1.json
+│   │   ├── 2.json
+│   │   ├── 3.json
+│   │   ├── 4.json
+│   │   ├── 5.json
+│   │   ├── 6.json
+│   │   └── 7.json
+│   │
+│   ├── elo-1-chama/
+│   │   ├── index.json
+│   │   ├── full-metadata.json
+│   │   └── schema.json
+│   │
+│   ├── elo-2-refugio/
+│   ├── elo-3-potencia/
+│   ├── elo-4-central/
+│   ├── elo-5-talento/
+│   ├── elo-6-atleta/
+│   └── elo-7-ide/
+│
+├── CORE-TERMS.md                  # Referência de termos
+└── STATS.md                       # Estatísticas
 ├── docs/
 │   └── NFT-STRUCTURE.md     # Documentação da NFT
 ├── scripts/
