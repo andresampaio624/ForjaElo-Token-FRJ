@@ -1,5 +1,6 @@
 {
   "name": "ELO 3 - POTENCIA ⚡",
+  "description": "Sentido: Força\nExpressão: Processo\nMeta: Hábito\nAção: Automatizar\nArquétipo: Maquina",
   "attributes": [
     {"trait_type": "Sentido", "value": "Força"},
     {"trait_type": "Expressão", "value": "Processo"},
