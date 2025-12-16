@@ -1,0 +1,11 @@
+{
+  "name": "ELO 7 - IDE 💡",
+  "description": "Sentido: Servir\nExpressão: Química\nMeta: Conexão\nAção: Encorajar\nArquétipo: Irmandade",
+  "attributes": [
+    {"trait_type": "Sentido", "value": "Servir"},
+    {"trait_type": "Expressão", "value": "Química"},
+    {"trait_type": "Meta", "value": "Conexão"},
+    {"trait_type": "Ação", "value": "Encorajar"},
+    {"trait_type": "Arquétipo", "value": "Irmandade"}
+  ]
+}
