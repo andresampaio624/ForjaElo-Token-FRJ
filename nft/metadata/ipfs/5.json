@@ -1,6 +1,8 @@
 {
   "name": "ELO 5 - TALENTO 🎨",
   "description": "Sentido: Valor\nExpressão: Domínio\nMeta: Espaço\nAção: Mordomia\nArquétipo: Excelência",
+  "image": "ipfs://bafybeic6n3br6soyag2pqlii4veww2dtynotv3zag2yhlov2bxbukiq6yu",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
   "attributes": [
     {"trait_type": "Sentido", "value": "Valor"},
     {"trait_type": "Expressão", "value": "Domínio"},
