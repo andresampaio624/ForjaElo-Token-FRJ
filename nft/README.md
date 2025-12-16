@@ -13,13 +13,16 @@ nft/
 ├── README.md                      # Este arquivo
 ├── images/                        # Imagens PNG
 │   ├── README.md
-│   ├── ELO 1 - CHAMA (🔥).png
-│   ├── ELO 2 - REFÚGIO (🏞️).png
-│   ├── ELO 3 - POTÊNCIA (⚡).png
-│   ├── ELO 4 - CENTRAL (🎯).png
-│   ├── ELO 5 - TALENTO (🎨).png
-│   ├── ELO 6 - ATLETA (🏃).png
-│   └── ELO 7 - IDÉ (💡).png
+│   ├── /avif
+│   ├── /jpg
+│   ├── /png
+│   ├── /source
+│   ├── /svg
+│   ├── /thumbnails
+│   ├── /webp
+│   ├── CONVERSION-GUIDE.md
+│   ├── FORMATS-GUIDE.md
+│   ├── README.md
 │
 ├── metadata/                      # Metadados JSON
 │   ├── README.md
