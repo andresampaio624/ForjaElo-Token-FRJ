@@ -1,40 +1,18 @@
 {
-  "name": "ForjaElo #7 - Idé",
-  "description": "ELO 7 - IDÉ. Sentido: Servir. Expressão: Química. Meta: Conexão. Ação: Encorajar. Arquétipo: Irmandade.",
-  "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/elo-07-ide.png",
-  "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
+  "name": "ForjaElo - IDÉ (Elo 7) 💡",
+  "description": "Elo de Serviço e Química. IDÉ representa o Sentido de Servir, a Expressão da Química. Este NFT simboliza o elo final da transformação, onde a conexão e irmandade são fortalecidas através do encorajamento mútuo. Meta: Conexão. Ação: Encorajar.",
+  "image": "ipfs://QmPlaceholder/ide.png",
+  "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
   "attributes": [
-    {
-      "trait_type": "ELO",
-      "value": "7"
-    },
-    {
-      "trait_type": "Nome",
-      "value": "Idé"
-    },
-    {
-      "trait_type": "Emoji",
-      "value": "💡"
-    },
-    {
-      "trait_type": "Sentido",
-      "value": "Servir"
-    },
-    {
-      "trait_type": "Expressão",
-      "value": "Química"
-    },
-    {
-      "trait_type": "Meta",
-      "value": "Conexão"
-    },
-    {
-      "trait_type": "Ação",
-      "value": "Encorajar"
-    },
-    {
-      "trait_type": "Arquétipo",
-      "value": "Irmandade"
-    }
+    {"trait_type": "Elo", "value": "IDÉ"},
+    {"trait_type": "Número do Elo", "value": "7"},
+    {"trait_type": "Sentido", "value": "Servir"},
+    {"trait_type": "Expressão", "value": "Química"},
+    {"trait_type": "Meta", "value": "Conexão"},
+    {"trait_type": "Ação", "value": "Encorajar"},
+    {"trait_type": "Símbolo", "value": "💡"},
+    {"trait_type": "Supply Máximo", "value": "777"},
+    {"trait_type": "Raridade", "value": "Lendário"},
+    {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
   ]
 }
