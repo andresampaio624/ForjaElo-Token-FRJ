@@ -1,5 +1,5 @@
 {
-  "name": "ForjaElo - ATLETA (Elo 6) 🏋",
+  "name": "ForjaElo - ATLETA (Elo 6) 🏃",
   "description": "Elo de Corpo e Forma. ATLETA representa o Sentido do Corpo, a Expressão da Biologia. Este NFT simboliza a disciplina do corpo como templo, onde o vigor físico sustenta toda a transformação. O teste e a experiência moldam a forma. Meta: Forma. Ação: Testar.",
   "image": "ipfs://QmPlaceholder/atleta.png",
   "external_url": "https://github.com/andresampaio624/ForjaElo-Framework",
@@ -10,7 +10,7 @@
     {"trait_type": "Expressão", "value": "Biologia"},
     {"trait_type": "Meta", "value": "Forma"},
     {"trait_type": "Ação", "value": "Testar"},
-    {"trait_type": "Símbolo", "value": "🏋"},
+    {"trait_type": "Símbolo", "value": "🏃"},
     {"trait_type": "Supply Máximo", "value": "777"},
     {"trait_type": "Raridade", "value": "Lendário"},
     {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
