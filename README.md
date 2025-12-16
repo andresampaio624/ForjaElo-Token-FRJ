@@ -144,15 +144,6 @@ Alinhada com o framework, temos uma coleção de **7 NFTs ERC-1155** representan
 │   │   └── ForjaEloNFT.sol          # NFT Collection ERC-1155
 │   └── @openzeppelin/               # Dependências
 │
-├── 🎨 NFT METADATA
-│   └── nft-metadata/
-│       ├── 1.json (CHAMA)
-│       ├── 2.json (REFÚGIO)
-│       ├── 3.json (POTÊNCIA)
-│       ├── 4.json (CENTRAL)
-│       ├── 5.json (TALENTO)
-│       ├── 6.json (ATLETA)
-│       └── 7.json (IDÉ)
 │
 ├── 📚 DOCUMENTAÇÃO
 │   ├── docs/
