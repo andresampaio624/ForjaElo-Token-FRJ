@@ -4,11 +4,14 @@
   "image": "ipfs://bafybeif3guos3xxbv7oy3bsqewe33biqgrovb662xzlowatjqr2y5v5uma",
   "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
   "attributes": [
+    {"trait_type": "Elo", "value": "IDE"},
+    {"trait_type": "Número", "value": "7"},
+    {"trait_type": "Símbolo", "value": "💡"},
     {"trait_type": "Sentido", "value": "Servir"},
     {"trait_type": "Expressão", "value": "Química"},
     {"trait_type": "Meta", "value": "Conexão"},
     {"trait_type": "Ação", "value": "Encorajar"},
-    {"trait_type": "Arquétipo", "value": "Irmandade"}
+    {"trait_type": "Arquétipo", "value": "Irmandade"},
     {"trait_type": "Supply Máximo", "value": "777"},
     {"trait_type": "Raridade", "value": "Lendário"},
     {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}

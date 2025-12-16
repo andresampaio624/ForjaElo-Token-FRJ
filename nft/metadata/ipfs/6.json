@@ -4,11 +4,14 @@
   "image": "ipfs://bafybeiaendyo32byar54gyou6ow36sufnragmvq6xpbdd2cug52mdksu3a",
   "external_url": "https://github.com/andresampaio624/ForjaElo-Token-FRJ",
   "attributes": [
+    {"trait_type": "Elo", "value": "ATLETA"},
+    {"trait_type": "Número", "value": "6"},
+    {"trait_type": "Símbolo", "value": "🏃"},
     {"trait_type": "Sentido", "value": "Corpo"},
     {"trait_type": "Expressão", "value": "Biologia"},
     {"trait_type": "Meta", "value": "Forma"},
     {"trait_type": "Ação", "value": "Testar"},
-    {"trait_type": "Arquétipo", "value": "Foco"}
+    {"trait_type": "Arquétipo", "value": "Foco"},
     {"trait_type": "Supply Máximo", "value": "777"},
     {"trait_type": "Raridade", "value": "Lendário"},
     {"trait_type": "Framework", "value": "7 Elos - ForjaElo"}
